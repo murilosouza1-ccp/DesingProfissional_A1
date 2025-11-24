@@ -19,7 +19,7 @@ A estrutura de pastas foi pensada para garantir fácil navegabilidade e clareza 
 
 ```text
 DesignProfissional_A1/
-├── 📄 Curriculo_Latex.pdf          # Currículo profissional formatado em LaTeX
+├── 📄 Curriculo_cnpq.pdf          # Currículo profissional formatado em LaTeX
 ├── 📄 Certificado_Evento.pdf       # Comprovante de participação em evento extracurricular
 ├── 📄 Candidatura.pdf              # Relatório reflexivo sobre simulação de entrevista
 ├── 📁 Portfolio/                   # Projetos práticos e estudos de caso
